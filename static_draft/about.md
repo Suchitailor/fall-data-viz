@@ -13,7 +13,7 @@ I am using mock data for the map chart because I am still sorting out exactly ho
 
 ## Describe each of the provided images with 2-3 sentences to give the context and how it relates to your goal.
 
-Please see descriptions included in static_viz_submission 
+Please see descriptions included in static_viz_submission.html 
 
 ## What form do you envision your final deliverable taking? (An article incorporating the images? A poster? An infographic?)
 
