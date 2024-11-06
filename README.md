@@ -13,4 +13,5 @@ https://carbonmajors.org/Entities - I copied and pasted this data into an Excel 
 
 https://www.kaggle.com/datasets/paultimothymooney/latitude-and-longitude-for-every-country-and-state -- Kaggle dataset that outlined longitude and latitude for each country. This data was merged with the entities data to obtain longitude and latitude. 
 
+**final infographic:** http://localhost:8888/lab/tree/static_final/final_emissions_infographic.pdf
 
