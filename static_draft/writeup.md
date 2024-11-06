@@ -1,4 +1,4 @@
-Carbon Majors is a database of historical production data from 122 of the world’s largest oil, gas, coal, and cement producers. This data is used to quantify the direct operational emissions and emissions from the combustion of marketed products that can be attributed to these entities. The below charts examine emissions from these entities from 2000-2022.
+Carbon Majors is a database of historical production data from 122 of the world’s largest oil, gas, coal, and cement producers. The entities are both privately and publicly owned. While the United States has a large concentration of these entities, they span the whole globe.
 
 Currently, the Earth is already about 1.2°C warmer than it was in the late 1800s, and emissions continue to rise. To keep global warming to no more than 1.5°C  – as called for in the Paris Agreement – emissions need to be reduced by 45% by 2030 and reach net zero by 2050. However, it is clear from the graph that emissions from the top producers have not reduced enough to meet that goal. (https://www.un.org/en/climatechange/net-zero-coalition#:~:text=Currently%2C%20the%20Earth%20is%20already,reach%20net%20zero%20by%202050.) 
 
